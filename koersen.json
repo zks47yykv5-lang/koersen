@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-26T19:28:23Z",
+ "bijgewerkt": "2026-11-26T19:31:22Z",
  "bron": "Yahoo Finance via yfinance",
  "rows": [
   {
@@ -101,25 +101,25 @@
   {
    "sector": "Goud",
    "symbool": "GC=F",
-   "koers": 3593.3999,
-   "r1m": -11.02,
-   "r1j": -13.73,
+   "koers": 3593.0,
+   "r1m": -11.03,
+   "r1j": -13.74,
    "peildatum": "2026-11-26"
   },
   {
    "sector": "Olie (Brent)",
    "symbool": "BZ=F",
-   "koers": 91.72,
-   "r1m": -20.8,
-   "r1j": 45.29,
+   "koers": 91.65,
+   "r1m": -20.86,
+   "r1j": 45.18,
    "peildatum": "2026-11-26"
   },
   {
    "sector": "Bitcoin",
    "symbool": "BTC-USD",
-   "koers": 60525.3008,
-   "r1m": -24.35,
-   "r1j": -33.13,
+   "koers": 60555.1484,
+   "r1m": -24.31,
+   "r1j": -33.1,
    "peildatum": "2026-11-26"
   },
   {
@@ -157,17 +157,17 @@
   {
    "sector": "Zilver",
    "symbool": "SI=F",
-   "koers": 41.735,
-   "r1m": -22.87,
-   "r1j": -21.13,
+   "koers": 41.725,
+   "r1m": -22.89,
+   "r1j": -21.15,
    "peildatum": "2026-11-26"
   },
   {
    "sector": "Koper",
    "symbool": "HG=F",
-   "koers": 5.4355,
-   "r1m": -16.48,
-   "r1j": 6.48,
+   "koers": 5.434,
+   "r1m": -16.5,
+   "r1j": 6.46,
    "peildatum": "2026-11-26"
   },
   {
@@ -181,9 +181,9 @@
   {
    "sector": "Aardgas VS (Henry Hub)",
    "symbool": "NG=F",
-   "koers": 3.587,
-   "r1m": 37.86,
-   "r1j": -21.3,
+   "koers": 3.591,
+   "r1m": 38.01,
+   "r1j": -21.22,
    "peildatum": "2026-11-26"
   },
   {
@@ -197,25 +197,25 @@
   {
    "sector": "Ether",
    "symbool": "ETH-USD",
-   "koers": 1701.03,
-   "r1m": -26.69,
-   "r1j": -43.82,
+   "koers": 1701.6899,
+   "r1m": -26.66,
+   "r1j": -43.8,
    "peildatum": "2026-11-26"
   },
   {
    "sector": "Solana",
    "symbool": "SOL-USD",
-   "koers": 71.32,
-   "r1m": -29.21,
-   "r1j": -50.13,
+   "koers": 71.36,
+   "r1m": -29.17,
+   "r1j": -50.1,
    "peildatum": "2026-11-26"
   },
   {
    "sector": "XRP",
    "symbool": "XRP-USD",
-   "koers": 0.9535,
-   "r1m": -27.04,
-   "r1j": -57.13,
+   "koers": 0.9533,
+   "r1m": -27.06,
+   "r1j": -57.14,
    "peildatum": "2026-11-26"
   },
   {
