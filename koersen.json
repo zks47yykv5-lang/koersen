@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-27T12:35:44Z",
+ "bijgewerkt": "2026-11-27T13:35:45Z",
  "bron": "Yahoo Finance via yfinance",
  "rows": [
   {
@@ -101,73 +101,73 @@
   {
    "sector": "Goud",
    "symbool": "GC=F",
-   "koers": 3695.6001,
-   "r1m": -9.3,
-   "r1j": -11.27,
+   "koers": 3674.2,
+   "r1m": -9.83,
+   "r1j": -11.79,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Olie (Brent)",
    "symbool": "BZ=F",
-   "koers": 92.07,
-   "r1m": -19.15,
-   "r1j": 45.84,
+   "koers": 91.66,
+   "r1m": -19.51,
+   "r1j": 45.19,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Bitcoin",
    "symbool": "BTC-USD",
-   "koers": 61503.8711,
-   "r1m": -23.89,
-   "r1j": -32.62,
+   "koers": 61341.7109,
+   "r1m": -24.09,
+   "r1j": -32.8,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Euro Stoxx 50",
    "symbool": "^STOXX50E",
-   "koers": 6076.5801,
-   "r1m": -1.43,
-   "r1j": 7.49,
+   "koers": 6088.6201,
+   "r1m": -1.23,
+   "r1j": 7.7,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "AEX",
    "symbool": "^AEX",
-   "koers": 1095.64,
-   "r1m": -3.88,
-   "r1j": 16.58,
+   "koers": 1097.48,
+   "r1m": -3.72,
+   "r1j": 16.77,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "DAX",
    "symbool": "^GDAXI",
-   "koers": 25368.0391,
-   "r1m": -0.87,
-   "r1j": 6.73,
+   "koers": 25405.0293,
+   "r1m": -0.73,
+   "r1j": 6.89,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Staatsobligaties VS (10 jaar)",
    "symbool": "^TNX",
-   "koers": 4.848,
-   "r1m": 1.1,
-   "r1j": -6.8,
-   "peildatum": "2026-11-25"
+   "koers": 4.9,
+   "r1m": 0.7,
+   "r1j": -7.2,
+   "peildatum": "2026-11-27"
   },
   {
    "sector": "Zilver",
    "symbool": "SI=F",
-   "koers": 44.205,
-   "r1m": -18.58,
-   "r1j": -16.46,
+   "koers": 44.005,
+   "r1m": -18.95,
+   "r1j": -16.84,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Koper",
    "symbool": "HG=F",
-   "koers": 5.6445,
-   "r1m": -14.76,
-   "r1j": 10.58,
+   "koers": 5.619,
+   "r1m": -15.15,
+   "r1j": 10.08,
    "peildatum": "2026-11-27"
   },
   {
@@ -181,9 +181,9 @@
   {
    "sector": "Aardgas VS (Henry Hub)",
    "symbool": "NG=F",
-   "koers": 3.525,
-   "r1m": 30.7,
-   "r1j": -22.66,
+   "koers": 3.479,
+   "r1m": 29.0,
+   "r1j": -23.67,
    "peildatum": "2026-11-27"
   },
   {
@@ -197,33 +197,33 @@
   {
    "sector": "Ether",
    "symbool": "ETH-USD",
-   "koers": 1720.62,
-   "r1m": -26.71,
-   "r1j": -42.92,
+   "koers": 1717.1899,
+   "r1m": -26.86,
+   "r1j": -43.04,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Solana",
    "symbool": "SOL-USD",
-   "koers": 73.06,
-   "r1m": -27.85,
-   "r1j": -48.13,
+   "koers": 73.21,
+   "r1m": -27.7,
+   "r1j": -48.02,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "XRP",
    "symbool": "XRP-USD",
-   "koers": 0.972,
-   "r1m": -26.89,
-   "r1j": -55.83,
+   "koers": 0.9698,
+   "r1m": -27.06,
+   "r1j": -55.93,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Euro (EUR/USD)",
    "symbool": "EURUSD=X",
-   "koers": 1.0966,
-   "r1m": -1.86,
-   "r1j": -5.48,
+   "koers": 1.0948,
+   "r1m": -2.02,
+   "r1j": -5.64,
    "peildatum": "2026-11-27"
   },
   {
@@ -245,9 +245,9 @@
   {
    "sector": "ASML",
    "symbool": "ASML.AS",
-   "koers": 1214.4,
-   "r1m": -17.39,
-   "r1j": 35.35,
+   "koers": 1219.6,
+   "r1m": -17.03,
+   "r1j": 35.93,
    "peildatum": "2026-11-27"
   },
   {
@@ -317,33 +317,33 @@
   {
    "sector": "Rheinmetall",
    "symbool": "RHM.DE",
-   "koers": 790.8,
-   "r1m": -22.86,
-   "r1j": -47.77,
+   "koers": 795.7,
+   "r1m": -22.39,
+   "r1j": -47.44,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "BAE Systems",
    "symbool": "BA.L",
-   "koers": 1935.5,
-   "r1m": -4.98,
-   "r1j": 17.02,
+   "koers": 1936.0,
+   "r1m": -4.96,
+   "r1j": 17.05,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Saab",
    "symbool": "SAAB-B.ST",
-   "koers": 649.4,
-   "r1m": -1.16,
-   "r1j": 34.74,
+   "koers": 646.5,
+   "r1m": -1.6,
+   "r1j": 34.14,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Thales",
    "symbool": "HO.PA",
-   "koers": 238.1,
-   "r1m": 1.67,
-   "r1j": 5.12,
+   "koers": 238.8,
+   "r1m": 1.96,
+   "r1j": 5.43,
    "peildatum": "2026-11-27"
   },
   {
