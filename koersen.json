@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-27T18:35:44Z",
+ "bijgewerkt": "2026-11-27T19:35:44Z",
  "bron": "Yahoo Finance via yfinance",
  "rows": [
   {
@@ -13,81 +13,81 @@
   {
    "sector": "Gezondheidszorg",
    "symbool": "XLV",
-   "koers": 183.99,
-   "r1m": 2.68,
-   "r1j": 16.14,
+   "koers": 184.2,
+   "r1m": 2.8,
+   "r1j": 16.27,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Dagelijkse consumptie",
    "symbool": "XLP",
-   "koers": 92.705,
-   "r1m": 6.37,
-   "r1j": 17.48,
+   "koers": 92.68,
+   "r1m": 6.35,
+   "r1j": 17.45,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Basismaterialen",
    "symbool": "XLB",
-   "koers": 51.965,
-   "r1m": 0.36,
-   "r1j": 16.92,
+   "koers": 52.15,
+   "r1m": 0.71,
+   "r1j": 17.34,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Vastgoed",
    "symbool": "XLRE",
-   "koers": 44.115,
-   "r1m": 3.95,
-   "r1j": 6.38,
+   "koers": 44.14,
+   "r1m": 4.01,
+   "r1j": 6.44,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Technologie",
    "symbool": "XLK",
-   "koers": 158.6931,
-   "r1m": -16.25,
-   "r1j": 11.84,
+   "koers": 160.15,
+   "r1m": -15.48,
+   "r1j": 12.87,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Industrie",
    "symbool": "XLI",
-   "koers": 165.04,
-   "r1m": -1.72,
-   "r1j": 8.01,
+   "koers": 165.56,
+   "r1m": -1.41,
+   "r1j": 8.35,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Nutsbedrijven",
    "symbool": "XLU",
-   "koers": 43.72,
-   "r1m": 2.03,
-   "r1j": -2.83,
+   "koers": 43.73,
+   "r1m": 2.05,
+   "r1j": -2.81,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Financiële waarden",
    "symbool": "XLF",
-   "koers": 57.125,
-   "r1m": 2.23,
-   "r1j": 7.88,
+   "koers": 57.16,
+   "r1m": 2.29,
+   "r1j": 7.95,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Cyclische consumptie",
    "symbool": "XLY",
-   "koers": 119.825,
-   "r1m": 3.79,
-   "r1j": 1.98,
+   "koers": 119.97,
+   "r1m": 3.92,
+   "r1j": 2.1,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Communicatiediensten",
    "symbool": "XLC",
-   "koers": 107.12,
-   "r1m": 3.42,
-   "r1j": -6.41,
+   "koers": 107.48,
+   "r1m": 3.77,
+   "r1j": -6.1,
    "peildatum": "2026-11-27"
   },
   {
@@ -101,25 +101,25 @@
   {
    "sector": "Goud",
    "symbool": "GC=F",
-   "koers": 3671.3,
-   "r1m": -9.9,
-   "r1j": -11.86,
+   "koers": 3668.5,
+   "r1m": -9.97,
+   "r1j": -11.93,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Olie (Brent)",
    "symbool": "BZ=F",
-   "koers": 90.26,
-   "r1m": -20.74,
-   "r1j": 42.97,
+   "koers": 90.55,
+   "r1m": -20.49,
+   "r1j": 43.43,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Bitcoin",
    "symbool": "BTC-USD",
-   "koers": 59809.5391,
-   "r1m": -25.98,
-   "r1j": -34.48,
+   "koers": 59922.7695,
+   "r1m": -25.84,
+   "r1j": -34.36,
    "peildatum": "2026-11-27"
   },
   {
@@ -149,7 +149,7 @@
   {
    "sector": "Staatsobligaties VS (10 jaar)",
    "symbool": "^TNX",
-   "koers": 4.936,
+   "koers": 4.934,
    "r1m": 0.5,
    "r1j": -7.5,
    "peildatum": "2026-11-27"
@@ -181,9 +181,9 @@
   {
    "sector": "Aardgas VS (Henry Hub)",
    "symbool": "NG=F",
-   "koers": 3.492,
-   "r1m": 29.48,
-   "r1j": -23.39,
+   "koers": 3.507,
+   "r1m": 30.03,
+   "r1j": -23.06,
    "peildatum": "2026-11-27"
   },
   {
@@ -197,41 +197,41 @@
   {
    "sector": "Ether",
    "symbool": "ETH-USD",
-   "koers": 1666.28,
-   "r1m": -29.03,
-   "r1j": -44.73,
+   "koers": 1672.2,
+   "r1m": -28.77,
+   "r1j": -44.53,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Solana",
    "symbool": "SOL-USD",
-   "koers": 71.77,
-   "r1m": -29.12,
-   "r1j": -49.04,
+   "koers": 72.3,
+   "r1m": -28.6,
+   "r1j": -48.67,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "XRP",
    "symbool": "XRP-USD",
-   "koers": 0.9451,
-   "r1m": -28.92,
-   "r1j": -57.06,
+   "koers": 0.9524,
+   "r1m": -28.37,
+   "r1j": -56.73,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Euro (EUR/USD)",
    "symbool": "EURUSD=X",
-   "koers": 1.0939,
-   "r1m": -2.11,
-   "r1j": -5.72,
+   "koers": 1.0936,
+   "r1m": -2.13,
+   "r1j": -5.74,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "TSMC",
    "symbool": "TSM",
-   "koers": 350.36,
-   "r1m": -19.8,
-   "r1j": 20.83,
+   "koers": 353.34,
+   "r1m": -19.12,
+   "r1j": 21.86,
    "peildatum": "2026-11-27"
   },
   {
@@ -293,25 +293,25 @@
   {
    "sector": "JPMorgan Chase",
    "symbool": "JPM",
-   "koers": 322.82,
-   "r1m": -3.86,
-   "r1j": 4.93,
+   "koers": 322.96,
+   "r1m": -3.82,
+   "r1j": 4.98,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "ExxonMobil",
    "symbool": "XOM",
-   "koers": 160.52,
-   "r1m": -10.78,
-   "r1j": 39.86,
+   "koers": 160.18,
+   "r1m": -10.97,
+   "r1j": 39.57,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Lockheed Martin",
    "symbool": "LMT",
-   "koers": 603.64,
-   "r1m": -3.11,
-   "r1j": 32.91,
+   "koers": 605.88,
+   "r1m": -2.75,
+   "r1j": 33.41,
    "peildatum": "2026-11-27"
   },
   {
@@ -349,25 +349,25 @@
   {
    "sector": "CVS Health",
    "symbool": "CVS",
-   "koers": 82.925,
-   "r1m": -9.0,
-   "r1j": 3.84,
+   "koers": 82.61,
+   "r1m": -9.35,
+   "r1j": 3.44,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Cigna",
    "symbool": "CI",
-   "koers": 273.59,
-   "r1m": -8.28,
-   "r1j": -1.71,
+   "koers": 272.12,
+   "r1m": -8.77,
+   "r1j": -2.24,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "UnitedHealth",
    "symbool": "UNH",
-   "koers": 351.52,
-   "r1m": -14.34,
-   "r1j": 6.61,
+   "koers": 351.41,
+   "r1m": -14.37,
+   "r1j": 6.58,
    "peildatum": "2026-11-27"
   },
   {
