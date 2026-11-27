@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-27T06:35:43Z",
+ "bijgewerkt": "2026-11-27T07:35:44Z",
  "bron": "Yahoo Finance via yfinance",
  "rows": [
   {
@@ -101,25 +101,25 @@
   {
    "sector": "Goud",
    "symbool": "GC=F",
-   "koers": 3672.3999,
-   "r1m": -9.87,
-   "r1j": -11.83,
+   "koers": 3686.3,
+   "r1m": -9.53,
+   "r1j": -11.5,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Olie (Brent)",
    "symbool": "BZ=F",
-   "koers": 92.62,
-   "r1m": -18.67,
-   "r1j": 46.71,
+   "koers": 92.35,
+   "r1m": -18.91,
+   "r1j": 46.29,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Bitcoin",
    "symbool": "BTC-USD",
-   "koers": 61711.6289,
-   "r1m": -23.63,
-   "r1j": -32.4,
+   "koers": 61762.3008,
+   "r1m": -23.57,
+   "r1j": -32.34,
    "peildatum": "2026-11-27"
   },
   {
@@ -157,17 +157,17 @@
   {
    "sector": "Zilver",
    "symbool": "SI=F",
-   "koers": 44.47,
-   "r1m": -18.09,
-   "r1j": -15.96,
+   "koers": 44.48,
+   "r1m": -18.07,
+   "r1j": -15.94,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Koper",
    "symbool": "HG=F",
-   "koers": 5.701,
-   "r1m": -13.91,
-   "r1j": 11.69,
+   "koers": 5.6805,
+   "r1m": -14.22,
+   "r1j": 11.28,
    "peildatum": "2026-11-27"
   },
   {
@@ -181,9 +181,9 @@
   {
    "sector": "Aardgas VS (Henry Hub)",
    "symbool": "NG=F",
-   "koers": 3.606,
-   "r1m": 33.7,
-   "r1j": -20.89,
+   "koers": 3.589,
+   "r1m": 33.07,
+   "r1j": -21.26,
    "peildatum": "2026-11-27"
   },
   {
@@ -197,33 +197,33 @@
   {
    "sector": "Ether",
    "symbool": "ETH-USD",
-   "koers": 1734.27,
-   "r1m": -26.13,
-   "r1j": -42.47,
+   "koers": 1733.17,
+   "r1m": -26.18,
+   "r1j": -42.51,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Solana",
    "symbool": "SOL-USD",
-   "koers": 72.96,
-   "r1m": -27.94,
-   "r1j": -48.2,
+   "koers": 73.09,
+   "r1m": -27.82,
+   "r1j": -48.11,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "XRP",
    "symbool": "XRP-USD",
-   "koers": 0.9712,
-   "r1m": -26.95,
-   "r1j": -55.87,
+   "koers": 0.9786,
+   "r1m": -26.4,
+   "r1j": -55.53,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Euro (EUR/USD)",
    "symbool": "EURUSD=X",
-   "koers": 1.0981,
-   "r1m": -1.73,
-   "r1j": -5.36,
+   "koers": 1.0975,
+   "r1m": -1.78,
+   "r1j": -5.41,
    "peildatum": "2026-11-27"
   },
   {
