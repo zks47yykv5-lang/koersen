@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-28T07:35:44Z",
+ "bijgewerkt": "2026-11-28T08:35:44Z",
  "bron": "Yahoo Finance via yfinance",
  "rows": [
   {
@@ -117,9 +117,9 @@
   {
    "sector": "Bitcoin",
    "symbool": "BTC-USD",
-   "koers": 59689.1406,
-   "r1m": -26.55,
-   "r1j": -34.35,
+   "koers": 59523.4609,
+   "r1m": -26.76,
+   "r1j": -34.53,
    "peildatum": "2026-11-28"
   },
   {
@@ -197,25 +197,25 @@
   {
    "sector": "Ether",
    "symbool": "ETH-USD",
-   "koers": 1655.16,
-   "r1m": -29.8,
-   "r1j": -45.42,
+   "koers": 1650.74,
+   "r1m": -29.98,
+   "r1j": -45.56,
    "peildatum": "2026-11-28"
   },
   {
    "sector": "Solana",
    "symbool": "SOL-USD",
-   "koers": 71.15,
-   "r1m": -30.45,
-   "r1j": -48.21,
+   "koers": 71.01,
+   "r1m": -30.59,
+   "r1j": -48.32,
    "peildatum": "2026-11-28"
   },
   {
    "sector": "XRP",
    "symbool": "XRP-USD",
-   "koers": 0.9442,
-   "r1m": -28.7,
-   "r1j": -56.7,
+   "koers": 0.9388,
+   "r1m": -29.11,
+   "r1j": -56.95,
    "peildatum": "2026-11-28"
   },
   {
@@ -245,10 +245,10 @@
   {
    "sector": "ASML",
    "symbool": "ASML.AS",
-   "koers": 1168.2,
-   "r1m": -18.31,
-   "r1j": 28.47,
-   "peildatum": "2026-11-26"
+   "koers": 1198.0,
+   "r1m": -18.5,
+   "r1j": 33.53,
+   "peildatum": "2026-11-27"
   },
   {
    "sector": "Apple",
@@ -317,34 +317,34 @@
   {
    "sector": "Rheinmetall",
    "symbool": "RHM.DE",
-   "koers": 765.7,
-   "r1m": -25.96,
-   "r1j": -48.8,
-   "peildatum": "2026-11-26"
+   "koers": 791.1,
+   "r1m": -22.83,
+   "r1j": -47.75,
+   "peildatum": "2026-11-27"
   },
   {
    "sector": "BAE Systems",
    "symbool": "BA.L",
-   "koers": 1896.0,
-   "r1m": -5.77,
-   "r1j": 15.33,
-   "peildatum": "2026-11-26"
+   "koers": 1929.0,
+   "r1m": -5.3,
+   "r1j": 16.63,
+   "peildatum": "2026-11-27"
   },
   {
    "sector": "Saab",
    "symbool": "SAAB-B.ST",
-   "koers": 624.1,
-   "r1m": -4.26,
-   "r1j": 32.73,
-   "peildatum": "2026-11-26"
+   "koers": 643.1,
+   "r1m": -2.12,
+   "r1j": 33.44,
+   "peildatum": "2026-11-27"
   },
   {
    "sector": "Thales",
    "symbool": "HO.PA",
-   "koers": 233.8,
-   "r1m": 0.39,
-   "r1j": 3.63,
-   "peildatum": "2026-11-26"
+   "koers": 239.2,
+   "r1m": 2.13,
+   "r1j": 5.61,
+   "peildatum": "2026-11-27"
   },
   {
    "sector": "CVS Health",
