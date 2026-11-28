@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-27T21:35:44Z",
+ "bijgewerkt": "2026-11-28T06:35:44Z",
  "bron": "Yahoo Finance via yfinance",
  "rows": [
   {
@@ -101,26 +101,26 @@
   {
    "sector": "Goud",
    "symbool": "GC=F",
-   "koers": 3668.5,
-   "r1m": -9.97,
-   "r1j": -11.93,
+   "koers": 3639.6001,
+   "r1m": -10.68,
+   "r1j": -12.62,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Olie (Brent)",
    "symbool": "BZ=F",
-   "koers": 90.84,
-   "r1m": -20.23,
-   "r1j": 43.89,
+   "koers": 95.44,
+   "r1m": -16.19,
+   "r1j": 51.18,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Bitcoin",
    "symbool": "BTC-USD",
-   "koers": 59728.3984,
-   "r1m": -26.08,
-   "r1j": -34.57,
-   "peildatum": "2026-11-27"
+   "koers": 59809.2812,
+   "r1m": -26.4,
+   "r1j": -34.22,
+   "peildatum": "2026-11-28"
   },
   {
    "sector": "Euro Stoxx 50",
@@ -157,25 +157,25 @@
   {
    "sector": "Zilver",
    "symbool": "SI=F",
-   "koers": 43.702,
-   "r1m": -19.51,
-   "r1j": -17.41,
+   "koers": 43.167,
+   "r1m": -20.49,
+   "r1j": -18.42,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Koper",
    "symbool": "HG=F",
-   "koers": 5.6005,
-   "r1m": -15.43,
-   "r1j": 9.72,
+   "koers": 5.517,
+   "r1m": -16.69,
+   "r1j": 8.08,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Aardgas Europa (TTF)",
    "symbool": "TTF=F",
-   "koers": 84.85,
-   "r1m": -11.67,
-   "r1j": 188.92,
+   "koers": 83.196,
+   "r1m": -13.39,
+   "r1j": 183.29,
    "peildatum": "2026-11-27"
   },
   {
@@ -189,41 +189,41 @@
   {
    "sector": "Tarwe",
    "symbool": "ZW=F",
-   "koers": 591.0,
-   "r1m": -3.15,
-   "r1j": 11.72,
+   "koers": 566.5,
+   "r1m": -7.17,
+   "r1j": 7.09,
    "peildatum": "2026-11-27"
   },
   {
    "sector": "Ether",
    "symbool": "ETH-USD",
-   "koers": 1663.83,
-   "r1m": -29.13,
-   "r1j": -44.81,
-   "peildatum": "2026-11-27"
+   "koers": 1658.2,
+   "r1m": -29.67,
+   "r1j": -45.32,
+   "peildatum": "2026-11-28"
   },
   {
    "sector": "Solana",
    "symbool": "SOL-USD",
-   "koers": 71.87,
-   "r1m": -29.02,
-   "r1j": -48.97,
-   "peildatum": "2026-11-27"
+   "koers": 71.42,
+   "r1m": -30.19,
+   "r1j": -48.02,
+   "peildatum": "2026-11-28"
   },
   {
    "sector": "XRP",
    "symbool": "XRP-USD",
-   "koers": 0.9475,
-   "r1m": -28.74,
-   "r1j": -56.95,
-   "peildatum": "2026-11-27"
+   "koers": 0.9478,
+   "r1m": -28.43,
+   "r1j": -56.54,
+   "peildatum": "2026-11-28"
   },
   {
    "sector": "Euro (EUR/USD)",
    "symbool": "EURUSD=X",
-   "koers": 1.0937,
-   "r1m": -2.12,
-   "r1j": -5.73,
+   "koers": 1.0972,
+   "r1m": -1.8,
+   "r1j": -5.43,
    "peildatum": "2026-11-27"
   },
   {
@@ -245,10 +245,10 @@
   {
    "sector": "ASML",
    "symbool": "ASML.AS",
-   "koers": 1198.0,
-   "r1m": -18.5,
-   "r1j": 33.53,
-   "peildatum": "2026-11-27"
+   "koers": 1168.2,
+   "r1m": -18.31,
+   "r1j": 28.47,
+   "peildatum": "2026-11-26"
   },
   {
    "sector": "Apple",
@@ -317,34 +317,34 @@
   {
    "sector": "Rheinmetall",
    "symbool": "RHM.DE",
-   "koers": 791.1,
-   "r1m": -22.83,
-   "r1j": -47.75,
-   "peildatum": "2026-11-27"
+   "koers": 765.7,
+   "r1m": -25.96,
+   "r1j": -48.8,
+   "peildatum": "2026-11-26"
   },
   {
    "sector": "BAE Systems",
    "symbool": "BA.L",
-   "koers": 1929.0,
-   "r1m": -5.3,
-   "r1j": 16.63,
-   "peildatum": "2026-11-27"
+   "koers": 1896.0,
+   "r1m": -5.77,
+   "r1j": 15.33,
+   "peildatum": "2026-11-26"
   },
   {
    "sector": "Saab",
    "symbool": "SAAB-B.ST",
-   "koers": 643.1,
-   "r1m": -2.12,
-   "r1j": 33.44,
-   "peildatum": "2026-11-27"
+   "koers": 624.1,
+   "r1m": -4.26,
+   "r1j": 32.73,
+   "peildatum": "2026-11-26"
   },
   {
    "sector": "Thales",
    "symbool": "HO.PA",
-   "koers": 239.2,
-   "r1m": 2.13,
-   "r1j": 5.61,
-   "peildatum": "2026-11-27"
+   "koers": 233.8,
+   "r1m": 0.39,
+   "r1j": 3.63,
+   "peildatum": "2026-11-26"
   },
   {
    "sector": "CVS Health",
