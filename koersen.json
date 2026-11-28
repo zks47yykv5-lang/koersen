@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-28T15:35:44Z",
+ "bijgewerkt": "2026-11-28T16:35:44Z",
  "bron": "Yahoo Finance via yfinance",
  "rows": [
   {
@@ -117,9 +117,9 @@
   {
    "sector": "Bitcoin",
    "symbool": "BTC-USD",
-   "koers": 59198.3008,
-   "r1m": -27.16,
-   "r1j": -34.89,
+   "koers": 59343.8711,
+   "r1m": -26.98,
+   "r1j": -34.73,
    "peildatum": "2026-11-28"
   },
   {
@@ -197,25 +197,25 @@
   {
    "sector": "Ether",
    "symbool": "ETH-USD",
-   "koers": 1642.72,
-   "r1m": -30.32,
-   "r1j": -45.83,
+   "koers": 1644.96,
+   "r1m": -30.23,
+   "r1j": -45.75,
    "peildatum": "2026-11-28"
   },
   {
    "sector": "Solana",
    "symbool": "SOL-USD",
-   "koers": 70.37,
-   "r1m": -31.22,
-   "r1j": -48.78,
+   "koers": 70.35,
+   "r1m": -31.24,
+   "r1j": -48.8,
    "peildatum": "2026-11-28"
   },
   {
    "sector": "XRP",
    "symbool": "XRP-USD",
-   "koers": 0.938,
-   "r1m": -29.17,
-   "r1j": -56.99,
+   "koers": 0.9372,
+   "r1m": -29.23,
+   "r1j": -57.02,
    "peildatum": "2026-11-28"
   },
   {
